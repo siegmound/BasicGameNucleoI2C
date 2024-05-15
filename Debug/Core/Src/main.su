@@ -1,0 +1,11 @@
+../Core/Src/main.c:75:5:main	240	static
+../Core/Src/main.c:204:6:SystemClock_Config	88	static
+../Core/Src/main.c:252:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:286:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:319:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:352:6:stampa	32	static
+../Core/Src/main.c:374:5:verifica	32	static
+../Core/Src/main.c:391:6:spersonaggio	16	static
+../Core/Src/main.c:408:5:updatea	24	static
+../Core/Src/main.c:458:5:updatea2	32	static
+../Core/Src/main.c:483:6:Error_Handler	4	static,ignoring_inline_asm
